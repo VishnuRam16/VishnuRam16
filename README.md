@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Vishnu and aspiring Data Analyst/Data Engineer. I have recently completed my Master's in Data Science from Drexel University. Fun fact, I have lived in 5 countries and I can speak 4 languages. You can talk to me about anything Manchester United and Formula 1 related. 
+I'm Vishnu, an aspiring Data Analyst/Data Engineer with a freshly minted Master's in Data Science from Drexel University. Beyond the confines of data, my life is rich with experiences from living in 5 different countries and communicating in 4 languages, not to mention a deep passion for anything Manchester United and Formula 1. 
+
+What truly drives me is the thrill of tackling challenging tasks, the relentless pursuit of learning and progress in my profession, and the profound satisfaction of making a tangible impact. Whether it's through pushing limits, achieving ambitious goals, or contributing meaningfully to a project or organization, I'm motivated by a genuine desire to make a difference and leave a lasting mark in everything I do.
 
 
 ## 🌐 Socials:
