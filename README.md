@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am passionate about connecting concepts from various fields and collaborating with diverse teams to drive impactful solutions. With a keen interest in data analytics and business intelligence, I am dedicated to leveraging data and algorithms to solve complex problems and deliver high-performing insights across industries.
+Data Engineer with 3+ years of experience building data pipelines and systems that support analytics, AI use cases, and internal business tools. Most of my work has focused on turning messy, raw data into reliable datasets that teams can actually use.
 
-My expertise lies in transforming raw data into actionable insights that empower decision-making and drive business growth. I excel at communicating technical concepts to non-technical stakeholders, ensuring that the value and implications of data-driven strategies are clearly understood and effectively implemented.
+I’ve worked across data engineering, analytics, and applied AI, from building AI-powered assistants to setting up reporting systems and automating workflows. I enjoy working close to both the data and the code, and I’m comfortable moving between business requirements and technical implementation.
 
-I thrive on tackling new and challenging problems, always seeking opportunities to apply my skills and expertise in innovative ways. My goal is to harness the power of data to create meaningful impact and support organizations in achieving their strategic objectives.
+I care a lot about building things that last. That means prioritizing reliability, clear data models, and simple designs over over-engineering. My goal is always to make data easier to trust, easier to use, and genuinely helpful for decision-making.
 
 
 ## 🌐 Socials:
