@@ -1,9 +1,10 @@
 # 💫 About Me:
 Data Engineer with 3+ years of experience building data pipelines and systems that support analytics, AI use cases, and internal business tools. Most of my work has focused on turning messy, raw data into reliable datasets that teams can actually use.
 
-I’ve worked across data engineering, analytics, and applied AI, from building AI-powered assistants to setting up reporting systems and automating workflows. I enjoy working close to both the data and the code, and I’m comfortable moving between business requirements and technical implementation.
+I’ve worked across data engineering and analytics, building scalable pipelines, optimizing data workflows, and supporting AI-driven applications. My focus has been on designing reliable data systems, enabling efficient data access, and automating data movement across sources. I enjoy working close to the data infrastructure and code, and I’m comfortable translating business requirements into robust, production-ready data solutions.
 
 I care a lot about building things that last. That means prioritizing reliability, clear data models, and simple designs over over-engineering. My goal is always to make data easier to trust, easier to use, and genuinely helpful for decision-making.
+
 
 
 ## 🌐 Socials:
